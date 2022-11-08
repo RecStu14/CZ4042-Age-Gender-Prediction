@@ -1,0 +1,15 @@
+### Run2 - SHAPE 224 - MSE ###
+
+{'loss': 434.95123291015625,
+ 'gender_output_loss': 1.8365871906280518,
+ 'age_output_loss': 433.1144104003906,
+ 'gender_output_accuracy': 0.567108154296875,
+ 'age_output_accuracy': 0.04323435202240944}
+
+ ### Run3 - SHAPE 128 - MSE ###
+
+ {'loss': 37.45306396484375,
+ 'gender_output_loss': 0.2168285846710205,
+ 'age_output_loss': 37.2362060546875,
+ 'gender_output_accuracy': 0.9044626355171204,
+ 'age_output_accuracy': 0.006959675811231136}
