@@ -13,3 +13,11 @@
  'age_output_loss': 37.2362060546875,
  'gender_output_accuracy': 0.9044626355171204,
  'age_output_accuracy': 0.006959675811231136}
+
+
+ ##### BASELINE 100 EPOCHS #####
+ {'loss': 22.748016357421875,
+ 'gender_output_loss': 0.15286317467689514,
+ 'age_output_loss': 22.59515953063965,
+ 'gender_output_accuracy': 0.9716551303863525,
+ 'age_output_accuracy': 0.04665092006325722}
