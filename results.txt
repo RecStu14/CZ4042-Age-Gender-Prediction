@@ -16,8 +16,32 @@
 
 
  ##### BASELINE 100 EPOCHS #####
+ validation
  {'loss': 22.748016357421875,
  'gender_output_loss': 0.15286317467689514,
  'age_output_loss': 22.59515953063965,
  'gender_output_accuracy': 0.9716551303863525,
  'age_output_accuracy': 0.04665092006325722}
+
+ test - jw - saved model [last epoch]
+{'loss': 260.230712890625,
+ 'gender_output_loss': 2.113781690597534,
+ 'age_output_loss': 258.1167907714844,
+ 'gender_output_accuracy': 0.6390589475631714,
+ 'age_output_accuracy': 0.0}
+
+ test - jw - best_age_model
+ {'loss': 239.86929321289062,
+ 'gender_output_loss': 1.3743445873260498,
+ 'age_output_loss': 238.49501037597656,
+ 'gender_output_accuracy': 0.6992357969284058,
+ 'age_output_accuracy': 0.0}
+
+ test - jw - best_gender_model
+ {'loss': 236.44937133789062,
+ 'gender_output_loss': 1.4306471347808838,
+ 'age_output_loss': 235.0186309814453,
+ 'gender_output_accuracy': 0.6925139427185059,
+ 'age_output_accuracy': 0.0}
+
+
